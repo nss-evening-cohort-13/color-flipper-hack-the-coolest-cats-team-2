@@ -32,8 +32,13 @@ const buttonClick = () => {
     .addEventListener("click", colorSelector);
 };
 
+
+
 const init = () => {
   buttonClick();
+  
 };
 
 init();
+
+
